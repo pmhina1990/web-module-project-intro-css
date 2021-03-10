@@ -1,0 +1,109 @@
+
+@import url('https://fonts.google.com/share?selection.family=Chelsea%20Market');
+
+
+html{
+
+    color:white;
+}
+
+
+
+
+
+
+h1{
+    color: black;
+    text-align:center;
+    font-family:Menlo, Monaco, 'Courier New', monospace;
+}
+h2{
+    color:black;
+    font-family:Menlo, Monaco, 'Courier New', monospace;
+    text-align: center;
+    padding:30px;
+}
+    p{
+        color: black;
+        text-align:center;
+
+    }
+
+
+    .outsidebox{
+  text-align:center;
+  margin:100px;
+  padding: 100px 100px 20px 100px;
+  width:auto;
+  
+
+    }
+    
+
+.boxone{
+    padding:0.1%;
+    display:inline-block;
+    background-color:#FF764E;
+    width:auto;
+    text-align:justify;
+    font-family:Menlo, Monaco, 'Courier New', monospace;
+
+
+}
+ .boxone:hover{
+    color: yellow;
+    }
+.boxtwo{
+    padding:0.1%;
+    display:inline-block;
+    background-color:#5ED3EB;
+    font-family:Menlo, Monaco, 'Courier New', monospace;
+}
+.boxtwo:hover{
+color: red;
+}
+.boxthree{
+    padding:O.1%;
+    display:inline-block;
+    background-color:#FFCD69;
+    font-family:Menlo, Monaco, 'Courier New', monospace;
+
+}
+.boxthree:hover{
+    color: green;
+    }
+#small-images{
+    display:block;
+    margin-left:600px;
+    width:10%;
+
+
+    }
+    #headerpic{
+        width:30%;
+        border-radius: 50%;
+        height:auto;
+
+    }
+
+
+
+#small-imagestwo{
+    width:10%;
+    margin-left:600px;
+}
+#paragraph{
+    color:white;
+    background-color:#DDB9A3;
+    line-height:300%;
+     width: 1000px;
+     text-align:center;
+     font-family:Menlo, Monaco, 'Courier New', monospace;
+     display:inline-block;
+    
+}
+#foot{
+    height:300px;
+    width:2000px;
+}
+
